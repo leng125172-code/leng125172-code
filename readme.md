@@ -2,6 +2,8 @@
 
 专注 **.NET / Vue 应用开发、工业视觉与容器化工具**，探索 AI 辅助开发，把想法做成实用项目。
 
+📝 **[技术博客 · Miracle 的技术手记](https://leng125172-code.github.io/)**
+
 ### 🛠️ 技术与方向
 
 - **应用开发**：C# / .NET · Vue 3 · JavaScript · Python
