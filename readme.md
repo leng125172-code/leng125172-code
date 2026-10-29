@@ -1,3 +1,5 @@
+![Miracle · 星空与未来城市](assets/header.png)
+
 # Hi, I'm Miracle 👋
 
 专注 **.NET / Vue 应用开发、工业视觉与容器化工具**，探索 AI 辅助开发，把想法做成实用项目。
